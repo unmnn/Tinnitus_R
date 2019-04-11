@@ -127,7 +127,6 @@ ggplot2::theme_set(
 df <- readr::read_rds(file.path(here::here(), "data", "190311_data_as_tibble.rds"))
 # data_list <- readr::read_rds(file.path(here::here(), "data", "190311_data_as_list.rds"))
 
-source(file.path(here::here(), "R", "rules.R"), encoding = "UTF-8")
 source(file.path(here::here(), "Data", "data_dictionary.R"), encoding = "UTF-8")
 source(file.path(here::here(), "scirep_charite", "helpers.R"), encoding = "UTF-8")
 
