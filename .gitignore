@@ -24,3 +24,4 @@ scirep_charite/*
 !scirep_charite/03_run_grid.R
 !scirep_charite/04_eval_fs.R
 !scirep_charite/train.R
+!scirep_charite/main.R
